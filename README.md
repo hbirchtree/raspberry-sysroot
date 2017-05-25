@@ -6,7 +6,7 @@ The "architectures/" directory contains the following directories:
 
 |**Directory**          |**Architecture**  |**SDL2**|**X11** |
 |:----------------------|:-----------------|:-------|:-------|
-|rpi-SDL2-X11-armv7a    |ARM 32-bit, ARMv7A|Yes     |Yes     |
+|rpi-SDL2-X11-armv6     |ARM 32-bit, ARMv6 |Yes     |Yes     |
 |rpi-SDL2-X11-armv8a    |ARM 64-bit, ARMv8A|Yes     |Yes     |
 
 *Note*: ARMv8A version is not out yet
